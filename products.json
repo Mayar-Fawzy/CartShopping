@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Chair1",
+    "price": 2000,
+    "imge": "img/Chair.png"
+  },
+  {
+    "id": 1,
+    "name": "Chair2",
+    "price": 2000,
+    "imge": "img/Chair.png"
+  },
+  {
+    "id": 2,
+    "name": "Chair3",
+    "price": 2000,
+    "imge": "img/Chair.png"
+  },
+  {
+    "id": 3,
+    "name": "Chair4",
+    "price": 2000,
+    "imge": "img/Chair.png"
+  },
+  {
+    "id": 4,
+    "name": "Chair4",
+    "price": 2000,
+    "imge": "img/Chair.png"
+  },
+  {
+    "id": 5,
+    "name": "Chair4",
+    "price": 2000,
+    "imge": "img/Chair.png"
+  },
+  {
+    "id": 6,
+    "name": "Chair5",
+    "price": 2000,
+    "imge": "img/Chair.png"
+  },
+  {
+    "id": 7,
+    "name": "Chair6",
+    "price": 2000,
+    "imge": "img/Chair.png"
+  },
+  {
+    "id": 8,
+    "name": "Chair7",
+    "price": 2000,
+    "imge": "img/Chair.png"
+  },
+  {
+    "id": 9,
+    "name": "Chair9",
+    "price": 2000,
+    "imge": "img/Chair.png"
+  }
+]

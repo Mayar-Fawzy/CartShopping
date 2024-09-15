@@ -1,0 +1,108 @@
+body{
+  overflow-x: hidden;
+  height: 100%;
+  margin: 0;
+  
+}
+.container{
+  width: 10%;
+}
+.Header ,.ShoppingCard h4{
+    font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+.cardicon{
+  font-size: 40px;
+  position: relative;
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.icon span{
+ position: absolute;
+ top: 12%;
+ cursor: pointer;
+ right: 12%;
+ display: block; 
+ text-align: center;
+   width: 20px; 
+  background-color: red;
+border-radius:50%;
+}
+.cardproduct{
+  background-color: wheat;
+  padding: 7px;
+ box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.1);
+ border-radius: 15px;
+ margin: 10px;
+ width: 1000px;
+ 
+}
+
+.cardproduct img{
+width:85px; image-resolution: 200px;
+}
+
+.cardproduct button{
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.showcart , .cartTab{
+  
+ inset: 0 -400px 0 auto;
+}
+.showcart{
+
+transform: translateX(250px);
+ 
+ }
+.ShoppingCard{
+
+  position: absolute;
+  top: 0;  right: 0;
+  width:250px ;   height:100vh;}
+/* } ********************** */
+.cartTab img{
+
+  width: 20px;
+}
+ .beforee,.afterr{
+
+   cursor: pointer;
+    width: 20px;
+    color: black; 
+     background-color: rgb(214, 207, 207);
+ border-radius:50%;
+}
+.group{
+  padding:0px 2px ; 
+  
+} 
+
+
+
+.listcart,.group{
+  display: flex;
+   justify-content: space-between;
+}
+.footer{
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-radius: 0px;
+  display: flex;
+  }
+   .ShoppingCard{
+    overflow: hidden;
+    transition: transform 1.2s;
+  }
+
+  .icon{
+ 
+    transform: translateX(-200px);
+   } 
+   
